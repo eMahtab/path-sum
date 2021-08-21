@@ -6,6 +6,9 @@ Given the root of a binary tree and an integer targetSum, return true if the tre
 
 A leaf is a node with no children.
 
+![Path Sum example](pathsum.jpg?raw=true "Root to Leaf Path Sum")
+
+
 # Implementation : DFS
 ```java
 /**
